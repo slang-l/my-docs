@@ -1,11 +1,11 @@
 ---
-title: Layout
+title: JavaScript
 icon: object-group
 order: 2
 category:
   - Guide
 tag:
-  - Layout
+  - JavaScript
 ---
 
 The layout contains:

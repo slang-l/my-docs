@@ -1,5 +1,5 @@
 ---
-title: 布局
+title: JavaScript高级程序设计
 icon: object-group
 order: 2
 category:
@@ -10,9 +10,9 @@ tag:
 
 布局包括:
 
-- [导航栏](https://theme-hope.vuejs.press/zh/guide/layout/navbar.html)
-- [侧边栏](https://theme-hope.vuejs.press/zh/guide/layout/sidebar.html)
-- [页脚](https://theme-hope.vuejs.press/zh/guide/layout/footer.html)
+- [导航栏](./markdown.md)
+- [侧边栏](http://localhost:8080/zh/posts/strawberry.html)
+- [页脚](http://localhost:8080/zh/posts/strawberry.html)
 
 同时每个页面包含:
 
@@ -27,5 +27,3 @@ tag:
 - [夜间模式按钮](https://theme-hope.vuejs.press/zh/guide/interface/darkmode.html)
 - [返回顶部按钮](https://theme-hope.vuejs.press/guide/interface/others.html#返回顶部按钮)
 - [打印按钮](https://theme-hope.vuejs.press/guide/interface/others.html#打印按钮)
-
-你可以在主题选项和页面的 frontmatter 中自定义它们。

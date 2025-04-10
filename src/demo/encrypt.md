@@ -6,7 +6,7 @@ tag:
   - encryption
 ---
 
-# Encryption Article
+# Encryption Article+
 
 The actual article content.
 

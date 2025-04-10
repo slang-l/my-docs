@@ -9,14 +9,15 @@ export const enNavbar = navbar([
     prefix: "/posts/",
     children: [
       {
-        text: "Apple",
+        text: "JavaScript",
         icon: "pen-to-square",
-        prefix: "apple/",
+        prefix: "JavaScript/",
         children: [
-          { text: "Apple1", icon: "pen-to-square", link: "1" },
-          { text: "Apple2", icon: "pen-to-square", link: "2" },
+          { text: "JavaScript", icon: "pen-to-square", link: "async-load" },
+          { text: "JavaScript", icon: "pen-to-square", link: "quick-start" },
           "3",
           "4",
+          "5",
         ],
       },
       {
